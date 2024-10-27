@@ -1,0 +1,29 @@
+.likes-date-wrapper {  
+  display: flex;
+  justify-content: space-between;
+
+}
+
+li {
+
+padding: 16px;
+list-style: none;
+box-sizing: border-box;
+background-color: wheat;
+
+border-radius: 5px;
+box-shadow: 2px 2px 20px black;
+color: purple;
+
+}
+
+li>h1{
+text-align: center;
+
+}
+
+.edit-area
+{
+    width: 100%;
+    box-sizing: border-box;
+}

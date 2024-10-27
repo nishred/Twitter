@@ -1,0 +1,26 @@
+.sort-btn {
+
+ display: block;
+ max-width: 200px;
+ background-color: blue;
+ color: white;
+ padding: 16px;
+ font-weight: 700;
+}
+
+.filter-sort-wrapper{
+
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+
+}
+
+select {
+
+  padding: 10px 16px;
+  background-color: green;
+  color: white;
+  font-weight: 700;
+
+}
